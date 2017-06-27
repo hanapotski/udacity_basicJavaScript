@@ -22,5 +22,5 @@ while (x >= 0) {
     } else {
         console.log("T-" + x + " seconds")
     }
-    x -= 1;
+    x--;
 }
